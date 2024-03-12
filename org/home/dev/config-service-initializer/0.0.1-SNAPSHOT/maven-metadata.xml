@@ -3,27 +3,27 @@
   <groupId>org.home.dev</groupId>
   <artifactId>config-service-initializer</artifactId>
   <versioning>
-    <lastUpdated>20240312171347</lastUpdated>
+    <lastUpdated>20240312173910</lastUpdated>
     <snapshot>
-      <timestamp>20240312.171347</timestamp>
+      <timestamp>20240312.173910</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20240312.171347-1</value>
-        <updated>20240312171347</updated>
+        <value>0.0.1-20240312.173910-1</value>
+        <updated>20240312173910</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20240312.171347-1</value>
-        <updated>20240312171347</updated>
+        <value>0.0.1-20240312.173910-1</value>
+        <updated>20240312173910</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>exec</classifier>
         <extension>jar</extension>
-        <value>0.0.1-20240312.171347-1</value>
-        <updated>20240312171347</updated>
+        <value>0.0.1-20240312.173910-1</value>
+        <updated>20240312173910</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
